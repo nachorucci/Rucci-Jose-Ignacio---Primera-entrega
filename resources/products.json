@@ -1,0 +1,141 @@
+[
+    {
+      "id": 1,
+      "title": "Botella vidrio",
+      "description": "Botella de vidrio de 750 ml.",
+      "price": 2,
+      "thumbnail": [
+        "resources/img/botella.jpg"
+      ],
+      "code": "B0001",
+      "stock": 100,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Vaso vidrio",
+      "description": "Vaso de vidrio de 200 ml.",
+      "price": 0.2,
+      "thumbnail": [
+        "resources/img/vaso.jpg"
+      ],
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Tenedor",
+      "description": "Tenedor.",
+      "price": 0.05,
+      "thumbnail": [
+        "resources/img/tenedor.jpg"
+      ],
+      "code": "B0003",
+      "stock": 1000,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "Cuchillo",
+      "description": "Cuchillo.",
+      "price": 0.05,
+      "thumbnail": [
+        "resources/img/cuchillo.jpg"
+      ],
+      "code": "B0004",
+      "stock": 1000,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Vaso vidrio",
+      "description": "Vaso de vidrio de 200 ml",
+      "price": 3,
+      "thumbnail": null,
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "Vaso vidrio",
+      "description": "Vaso de vidrio de 200 ml",
+      "price": 3,
+      "thumbnail": null,
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 7,
+      "title": "Vaso vidrio",
+      "description": "Vaso de vidrio de 200 ml",
+      "price": 3,
+      "thumbnail": null,
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 12,
+      "title": "Vaso vidrio",
+      "description": "Vaso de vidrio de 200 ml",
+      "price": 3,
+      "thumbnail": null,
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": false
+    },
+    {
+      "id": 13,
+      "title": "Vaso vidrio",
+      "description": "Vaso de vidrio de 200 ml",
+      "price": 3,
+      "thumbnail": null,
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": false
+    },
+    {
+      "id": 14,
+      "description": "Vaso de vidrio de 400 ml",
+      "price": 3,
+      "thumbnail": null,
+      "code": "B0002",
+      "stock": 500,
+      "category": "Bazar",
+      "status": true,
+      "title": "Vaso vidrio grande"
+    },
+    {
+      "id": 15,
+      "title": "Plato de vidrio",
+      "description": "Plato de vidrio normal",
+      "price": 5,
+      "thumbnail": null,
+      "code": "B0003",
+      "stock": 5000,
+      "category": "Bazar",
+      "status": true
+    },
+    {
+      "id": 16,
+      "title": "Plato de vidrio gigante",
+      "description": "Plato de vidrio gigante",
+      "price": 5,
+      "thumbnail": null,
+      "code": "B0003",
+      "category": "Bazar",
+      "status": true
+    }
+  ]
