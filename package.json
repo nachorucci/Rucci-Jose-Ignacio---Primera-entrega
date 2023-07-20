@@ -1,5 +1,15 @@
 {
-  "dependencies": {
+  "name": "rucci_jose_ignacio-entrega_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Jose Ignacio Rucci",
+  "license": "ISC",
+  "devDependencies": {
     "express": "^4.18.2"
   }
 }
